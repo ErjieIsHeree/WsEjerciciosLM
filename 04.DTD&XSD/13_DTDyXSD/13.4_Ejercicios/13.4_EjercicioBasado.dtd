@@ -1,4 +1,4 @@
-<!ELEMENT empresa (nombre,NIF,esEsp,capitalSocial,direccion,empleados+)>
+    <!ELEMENT empresa (nombre,NIF,esEsp,capitalSocial,direccion,empleados+)>
 
     <!ELEMENT nombre (#PCDATA)>
     <!ELEMENT NIF (#PCDATA)>
